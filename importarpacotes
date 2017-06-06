@@ -1,0 +1,15 @@
+package fisrtpackage;
+
+
+import fisrtpackage.package2.C1; 
+
+
+public class Teste {
+	
+	
+     public static void main(String[] args) {
+    	 fisrtpackage.C1 c = new fisrtpackage.C1();//pacote1
+         C1 c2 = new C1();//pacote2
+         
+	}
+}
