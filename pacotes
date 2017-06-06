@@ -1,0 +1,17 @@
+package fisrtpackage;
+
+//informar o caminho completo da Classe
+//import fisrtpackage.package2.*;
+
+
+
+public class Teste {
+	
+	
+     public static void main(String[] args) {
+    	 fisrtpackage.package2.C1 c = 
+    			   new fisrtpackage.package2.C1();
+
+    	 
+	}
+}
